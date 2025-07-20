@@ -43,3 +43,7 @@ python3 vol.py --info
 ```
 
 📸 [CLONE_VOLATILITY3_REPO.jpeg](https://github.com/Jones-Waka/Volatility/blob/screenshots/CLONE%20AND%20INSTALL%20VOLATILITY%203.JPG): Shows the GitHub repository clone and verification of Volatility3 capabilities.
+
+## 📊 GitHub Stats  
+
+![Jones's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jones-Waka&show_icons=true&theme=radical) 
