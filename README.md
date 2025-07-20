@@ -16,7 +16,7 @@ Install essential packages required for memory analysis:
 sudo apt update && sudo apt install -y build-essential git libdistorm3-dev yara libraw1394-11 libcapstone-dev capstone-tool tzdata
 ```
 
-📸 `screenshots/INSTALL_SYSTEM_DEPENDENCIES.jpeg`: Demonstrates successful installation of required system packages.
+📸 [INSTALL_SYSTEM_DEPENDENCIES.jpeg](https://github.com/Jones-Waka/Volatility/blob/screenshots/INSTALL%20SYSTEM%20DEPENDENCIES.JPG)): Demonstrates successful installation of required system packages.
 
 ---
 
@@ -28,7 +28,7 @@ Ensure Python3 and pip are available for Volatility execution:
 sudo apt install -y python3 python3-dev python3-pip python3-setuptools python3-wheel
 ```
 
-📸 `screenshots/INSTALL_PYTHON3_AND_PIP.jpeg`: Python3 and pip installation on Kali Linux.
+📸 [INSTALL_PYTHON3_AND_PIP.jpeg](https://github.com/Jones-Waka/Volatility/blob/screenshots/INSTALL%20PYTHON3%20%26%20PIP.JPG): Python3 and pip installation on Kali Linux.
 
 ---
 
@@ -42,4 +42,4 @@ cd volatility3
 python3 vol.py --info
 ```
 
-📸 `screenshots/CLONE_VOLATILITY3_REPO.jpeg`: Shows the GitHub repository clone and verification of Volatility3 capabilities.
+📸 [CLONE_VOLATILITY3_REPO.jpeg](https://github.com/Jones-Waka/Volatility/blob/screenshots/CLONE%20AND%20INSTALL%20VOLATILITY%203.JPG): Shows the GitHub repository clone and verification of Volatility3 capabilities.
