@@ -1,4 +1,4 @@
-# 🧠 Volatility3 Memory Analysis Framework Installation Lab
+#  Volatility3 Memory Analysis Framework Installation Lab
 
 Volatility is an open-source memory forensics framework used to analyze memory dumps. It supports identifying the OS profile, listing active processes, visualizing parent-child relationships to detect suspicious behavior, identifying hidden or unlinked processes often caused by malware, inspecting network connections, detecting injected code, and even dumping process memory.
 
@@ -6,9 +6,9 @@ This guide documents how I installed [Volatility3](https://github.com/volatility
 
 For my hands-on analysis, I'll be using [MemLabs Lab 1 - Beginner's Luck](https://github.com/stuxnet999/MemLabs/tree/master/Lab%201), showcasing techniques learned from the [TryHackMe Volatility Module](https://tryhackme.com/room/volatility) in a separate project series.
 
-## 🔧 System Setup
+## System Setup
 
-### ✅ Installing System Dependencies
+### Installing System Dependencies
 
 Install essential packages required for memory analysis:
 
@@ -20,7 +20,7 @@ sudo apt update && sudo apt install -y build-essential git libdistorm3-dev yara 
 
 ---
 
-### 🐍 Installing Python3 & pip
+###  Installing Python3 & pip
 
 Ensure Python3 and pip are available for Volatility execution:
 
@@ -32,7 +32,7 @@ sudo apt install -y python3 python3-dev python3-pip python3-setuptools python3-w
 
 ---
 
-### 📥 Clone and Launch Volatility3
+###  Clone and Launch Volatility3
 
 Download the Volatility3 repository and run a basic check:
 
@@ -44,12 +44,12 @@ python3 vol.py --info
 
 📸 [CLONE_VOLATILITY3_REPO.jpeg](https://github.com/Jones-Waka/Volatility/blob/screenshots/CLONE%20AND%20INSTALL%20VOLATILITY%203.JPG): Shows the GitHub repository clone and verification of Volatility3 capabilities.
 
-## 📊 Reference
+##  Reference
 
 [Volatility Foundaton Github Page](https://github.com/volatilityfoundation/volatility/wiki/installation)
 
 [Tryhackme Volatility Module](https://tryhackme.com/room/volatility)
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 ![Jones's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jones-Waka&show_icons=true&theme=radical) 
